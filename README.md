@@ -1,6 +1,7 @@
 # Mapillary Street Grabber — v0.8.1
 
 A command‑line utility for Windows, macOS and Linux that downloads every image—or only the equirectangular **360‑degree panoramas**—that Mapillary hosts along a given street.
+Writen using OpenAI's o3.
 
 ## Contents
 1. [Key features](#1-key-features)
